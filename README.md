@@ -21,8 +21,7 @@ The goal is to extract insights, visualize trends, and demonstrate data storytel
 ## 🛠 Tools & Libraries
 - **Python** (Pandas, NumPy)
 - **Visualization**: Seaborn, Matplotlib
-- **Environment**: Google Colab / Jupyter Notebook
-
+- **Environment**: Google Colab
 ---
 
 ## 📂 Dataset
